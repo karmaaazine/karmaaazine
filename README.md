@@ -22,20 +22,41 @@ I believe in **curiosity, consistency, and creativity** — and a little chaos w
 ## 🧰 **My Toolbox**
 
 ### 👩‍💻 Languages  
-`Java` • `Python` • `C` • `C++` • `JavaScript` • `SQL`
+
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Java</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Python</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">C</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">C++</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">JavaScript</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">SQL</span>
+
 
 ---
 
-### 🌐 Web & Frameworks  
-`Spring Boot` • `Laravel` • `React` • `Next.js`  
-`Node.js` • `Express.js`  
-`HTML` • `CSS` • `Bootstrap`
+### 🌐 Web & Frameworks
+
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Spring Boot</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Laravel</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">React</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Next.js</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Node.js</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Express.js</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">HTML</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">CSS</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Bootstrap</span>
+
 
 ---
 
-### 🛠️ Tools & DevOps  
-`Git` • `GitHub` • `Docker` • `Postman`  
-`Kubernetes` • `Minikube` • `Grafana` 
+### 🛠️ Tools & DevOps
+
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Git</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">GitHub</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Docker</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Postman</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Kubernetes</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Minikube</span>
+<span style="background-color:#333; color:white; padding:5px 10px; border-radius:8px; font-size:14px;">Grafana</span>
 
 ---
 
